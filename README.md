@@ -1,11 +1,5 @@
 # Rubik-s-Cube-in-OpenGL
-This repository contains the Final Project of Computer Graphics UCSP 2021-1 
-
-## Authors
-
-* **Marquez Choque, Patrick Xavier** - *San Pablo Catholic University* - [GitHub](https://github.com/patrick03524)
-* **Diez Canseco Fuentes, Iñigo Manuel** - *San Pablo Catholic University* - [GitHub](https://github.com/inigomanuel)
-* **Mendoza Alejandro, Oscar Andree** - *San Pablo Catholic University* - [GitHub](https://github.com/OscarMendoza99)
+This repository contains the Rubiks cube -3D graphical interface
 
 ## Requirements
 The sample code for the `Rubik's Cube` needs CMake 3.20.0 or later.
