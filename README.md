@@ -15,9 +15,6 @@ This project also depends on 6 libraries:
 ## Solver
 We use the Herbert Kociemba's two-phase algorithm for solving Rubik's Cube, you can found it in this [GitHub](https://github.com/muodov/kociemba)
 
-## Demo
-
-A full Demo of this project can be found on youtube: [DEMO-YOUTUBE](https://www.youtube.com/watch?v=6fgyo0bZMnU)
 
 ## Instructions
 
